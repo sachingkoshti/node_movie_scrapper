@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-var http = require('http');
 var rp 	= require('request-promise');
 const $ = require('cheerio');
 
